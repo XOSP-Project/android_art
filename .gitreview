@@ -1,1 +1,5 @@
 [gerrit]
+host=review.xosp.org
+port=29418
+project=android_art.git
+defaultbranch=xosp-n-rebase
